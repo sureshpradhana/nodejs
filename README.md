@@ -1,2 +1,2 @@
 # nodejs
-https://github.com/codebrakerk/nodejs
+https://codebrakerk.github.io/nodejs/
